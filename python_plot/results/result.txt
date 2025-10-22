@@ -1,0 +1,3 @@
+Hidden layer size of Model: 20
+Average inference time: 0.89 ms
+Loss: 0.12
